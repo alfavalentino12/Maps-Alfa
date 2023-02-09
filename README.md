@@ -1,2 +1,0 @@
-# Maps-Alfa
-MapsActivity.java
